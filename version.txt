@@ -1,2 +1,2 @@
 0.1.0
-https://github.com/kroshikcat/kroshik-task-force-version/blob/main/infinium.png
+https://raw.githubusercontent.com/kroshikcat/kroshik-task-force-version/refs/heads/main/infinium.png
