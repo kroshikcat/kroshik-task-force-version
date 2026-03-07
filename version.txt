@@ -1,2 +1,2 @@
-0.1.0
-https://raw.githubusercontent.com/kroshikcat/kroshik-task-force-version/refs/heads/main/infinium.png
+0.0.1
+https://raw.githubusercontent.com/kroshikcat/kroshik-task-force-version/refs/heads/main/KTF.jar
