@@ -1,2 +1,2 @@
-0.3.7
+0.3.8
 https://raw.githubusercontent.com/kroshikcat/kroshik-task-force-version/refs/heads/main/KTF.jar
